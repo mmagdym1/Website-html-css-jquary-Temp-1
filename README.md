@@ -29,8 +29,8 @@ This repository is a practical learning project for developers looking for a **j
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/Website-html-css-jquary-Temp-1.git
-cd Website-html-css-jquary-Temp-1
+git clone https://github.com/mmagdym1/responsive-html-css-jquery-template.git
+cd responsive-html-css-jquery-template
 ```
 
 Open `index.html` in your browser.
@@ -48,15 +48,6 @@ Open `index.html` in your browser.
 
 `jquery website template` · `html css jquery project` · `responsive website template` · `frontend practice project` · `agency website html css` · `one page website template` · `bxslider jquery` · `javascript website template` · `html css javascript project`
 
-## 📌 Better Repository Name
-
-The current repository name contains the misspelling `jquary`. The correct technology name is **jQuery**. A stronger, more searchable repository name would be:
-
-`responsive-html-css-jquery-template`
-
-or
-
-`classic-jquery-agency-website-template`
 
 ---
 
