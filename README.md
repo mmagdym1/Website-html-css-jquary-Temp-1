@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="repo-icon.svg" width="180" alt="Responsive HTML CSS jQuery project icon" />
+</p>
+
 # Responsive HTML CSS jQuery Website Template — Classic Front-End Project
 
 A multi-section **responsive website template** built with HTML, CSS, JavaScript, and jQuery. The project includes a full-screen header slider, services, team members, testimonials, portfolio-style sections, navigation interactions, and classic front-end effects.
@@ -29,7 +33,7 @@ This repository is a practical learning project for developers looking for a **j
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/mmagdym1/responsive-html-css-jquery-template.git
+git clone https://github.com/reyad-dev/responsive-html-css-jquery-template.git
 cd responsive-html-css-jquery-template
 ```
 
@@ -47,7 +51,6 @@ Open `index.html` in your browser.
 ## 🔎 Search Topics
 
 `jquery website template` · `html css jquery project` · `responsive website template` · `frontend practice project` · `agency website html css` · `one page website template` · `bxslider jquery` · `javascript website template` · `html css javascript project`
-
 
 ---
 
